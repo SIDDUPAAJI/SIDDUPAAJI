@@ -35,7 +35,6 @@
 ## 🧩 A Bit More About Me
 
 - 💡 Always curious, always building
-- 🧘 Mental health advocate (even built an AI companion app for it)
 - 🧠 Self-taught, project-driven learner
 - 🎯 Goal: Become a **kickass Data Scientist**
 
