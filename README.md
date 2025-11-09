@@ -43,8 +43,8 @@
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/siddeshvaishnav)
+- 💻 [LeetCode](https://leetcode.com/u/siddeshh2703/)
 - 📬 Email: siddeshvaishnav@gmail.com
-- 🌐 Portfolio: Coming soon... 👀
 
 ---
 
