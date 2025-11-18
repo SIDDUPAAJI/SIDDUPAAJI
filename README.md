@@ -1,25 +1,25 @@
-# 👋 Hey there, I'm SID!
+## 👋 Hello, I'm SID
 
-🚀 I'm a curious mind exploring the worlds of **Data Science**, **Software Development**, and everything in between. Whether it’s crunching numbers, building smart apps, or analyzing trends, I love turning complex data into actionable insights.
-
----
-
-## 💼 What I Do
-
-- 📊 **Data Analyst in the making** – skilled with **SQL**, **Python**, **Pandas**, **Tableau**, and **Excel**
-- 💻 Dabble in **Java**, **Streamlit**, **Flask**, and a sprinkle of web dev magic
-- 📚 Currently prepping for **IIT JAM** to pursue M.Sc. in Statistics or Mathematics
+I am a highly motivated individual exploring the intersection of **Data Science** and **Software Development**. My passion lies in transforming complex data into clear, actionable insights and developing functional applications.
 
 ---
 
-## 🧠 Projects I’m Proud Of
+## 💼 Skills and Focus Areas
 
-- 🚕 [Uber Supply-Demand Gap](#) – Exploratory analysis, insights & dashboards
-- 🧟 [Null Vitals (Horror Game)](#) – Java 2D game with combat, bosses, UI, cutscenes, and save/load features
+- 📊 **Data Analyst** – proficient in **SQL**, **Python (Pandas)**, **Tableau**, and **Excel**
+- 💻 Experienced with **Java**, **Streamlit**, and **Flask** development
+- 📚 Currently prepping for **IIT JAM** to pursue an M.Sc. in Statistics or Mathematics
 
 ---
 
-## 📈 Tools & Tech
+## 🧠 Select Projects
+
+- 🚕 [Uber Supply-Demand Gap Analysis](#) – Comprehensive exploratory data analysis leading to key insights and dashboard creation
+- 🧟 [Null Vitals (Java Game Development)](#) – 2D game featuring combat mechanics, boss encounters, UI implementation, custom cutscenes, and persistent save/load functionality
+
+---
+
+## 📈 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -29,18 +29,20 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
 
 ---
 
-## 🧩 A Bit More About Me
+## 🎯 Profile Summary
 
-- 💡 Always curious, always building
-- 🧠 Self-taught, project-driven learner
-- 🎯 Goal: Become a **kickass Data Scientist**
+- 💡 Approach: Self-taught and project-driven learner
+- 🧠 Focus: Building and delivering tangible results
+- 🎯 Goal: To become a high-impact **Data Scientist**
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/siddeshvaishnav)
 - 💻 [LeetCode](https://leetcode.com/u/siddeshh2703/)
@@ -48,8 +50,7 @@
 
 ---
 
-*“Eat. Code. Sleep. Repeat — with a little bit of data crunching in between.”*
+*"Commit, analyze, iterate."*
 
-SIDDUPAAJI/SIDDUPAAJI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SIDDUPAAJI/SIDDUPAAJI is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
