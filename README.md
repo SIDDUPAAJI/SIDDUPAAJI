@@ -1,56 +1,34 @@
-## 👋 Hello, I'm SID
+I am Siddesh Vaishnav, a student and emerging professional at the intersection of Data Science and Software Development. My academic focus centers on statistics, analytics, and computational problem-solving, supported by a project-driven approach to programming and data analysis.
 
-I am a highly motivated individual exploring the intersection of **Data Science** and **Software Development**. My passion lies in transforming complex data into clear, actionable insights and developing functional applications.
+My technical competencies include data manipulation and analysis with Python (Pandas, SQL), development of interactive applications using Java, Flask, and Streamlit, and visualization and reporting with Tableau and Excel. I am strengthening my theoretical foundation through preparation for the IIT JAM exam in Statistics and Mathematics.
 
----
+I have delivered analytical and engineering outcomes across multiple domains:
 
-## 💼 Skills and Focus Areas
+Exploratory Data Analysis Projects: Performed comprehensive EDA on real-world datasets to identify patterns, trends, and actionable insights, accompanied by dashboard generation and structured reporting.
 
-- 📊 **Data Analyst** – proficient in **SQL**, **Python (Pandas)**, **Tableau**, and **Excel**
-- 💻 Experienced with **Java**, **Streamlit**, and **Flask** development
-- 📚 Currently prepping for **IIT JAM** to pursue an M.Sc. in Statistics or Mathematics
+Application Development: Engineered software artifacts including a Java-based 2D game with core mechanics, state persistence, and interactive systems.
 
----
+Data Engineering and SQL Integration: Constructed robust SQL workflows to support analytical tasks and ensure data integrity.
 
-## 🧠 Select Projects
+My workflow emphasizes rigorous analysis, reproducibility, and clarity of results. I pursue contributions that reinforce evidence-based decisions and system reliability.
 
-- 🚕 [Uber Supply-Demand Gap Analysis](#) – Comprehensive exploratory data analysis leading to key insights and dashboard creation
-- 🧟 [Null Vitals (Java Game Development)](#) – 2D game featuring combat mechanics, boss encounters, UI implementation, custom cutscenes, and persistent save/load functionality
+Skills
+Data Science: Python (Pandas, NumPy), SQL, Tableau, Excel
+Software Development: Java, Flask, Streamlit
+Tools: Git, Jupyter, VS Code, Eclipse
 
----
+Selected Projects
 
-## 📈 Tools & Technologies
+Uber Supply-Demand Gap Analysis — EDA identifying systemic imbalances and driving insight synthesis.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
+Null Vitals — Java game development illustrating system design and real-time mechanics.
 
----
+Bird Species Data Analysis — Comparative biodiversity assessment using structured data processing.
 
-## 🎯 Profile Summary
+Profile Summary
+Self-directed learner with a focus on empirical results and technical breadth across data and software systems. Committed to advancing analytical rigor and engineering discipline.
 
-- 💡 Approach: Self-taught and project-driven learner
-- 🧠 Focus: Building and delivering tangible results
-- 🎯 Goal: To become a high-impact **Data Scientist**
-
----
-
-## 📫 Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/siddeshvaishnav)
-- 💻 [LeetCode](https://leetcode.com/u/siddeshh2703/)
-- 📬 Email: siddeshvaishnav@gmail.com
-
----
-
-*"Commit, analyze, iterate."*
-
-SIDDUPAAJI/SIDDUPAAJI is a special repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Connect
+LinkedIn: www.linkedin.com/in/siddeshvaishnav
+LeetCode: https://leetcode.com/u/siddeshh2703/
+CodeForces: https://codeforces.com/profile/z1dd35h
