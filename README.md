@@ -1,34 +1,91 @@
-I am Siddesh Vaishnav, a student and emerging professional at the intersection of Data Science and Software Development. My academic focus centers on statistics, analytics, and computational problem-solving, supported by a project-driven approach to programming and data analysis.
+# Siddesh | Computer Science & Data Analytics
 
-My technical competencies include data manipulation and analysis with Python (Pandas, SQL), development of interactive applications using Java, Flask, and Streamlit, and visualization and reporting with Tableau and Excel. I am strengthening my theoretical foundation through preparation for the IIT JAM exam in Statistics and Mathematics.
+Final-year Computer Science student with a strong academic foundation in data analytics, machine learning, and systems-oriented software development. My work focuses on building practical, explainable, and deployment-ready solutions rather than demo-only projects. Emphasis on clean architecture, reproducibility, and documentation.
 
-I have delivered analytical and engineering outcomes across multiple domains:
+---
 
-Exploratory Data Analysis Projects: Performed comprehensive EDA on real-world datasets to identify patterns, trends, and actionable insights, accompanied by dashboard generation and structured reporting.
+## Technical Focus Areas
 
-Application Development: Engineered software artifacts including a Java-based 2D game with core mechanics, state persistence, and interactive systems.
+- Data Analysis & Visualization  
+- Machine Learning & Deep Learning  
+- Backend Development & APIs  
+- SQL & Database Design  
+- Applied AI systems  
+- Academic and project-driven research workflows  
 
-Data Engineering and SQL Integration: Constructed robust SQL workflows to support analytical tasks and ensure data integrity.
+---
 
-My workflow emphasizes rigorous analysis, reproducibility, and clarity of results. I pursue contributions that reinforce evidence-based decisions and system reliability.
+## Technology Stack
 
-Skills
-Data Science: Python (Pandas, NumPy), SQL, Tableau, Excel
-Software Development: Java, Flask, Streamlit
-Tools: Git, Jupyter, VS Code, Eclipse
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Selected Projects
+### .NET & C# Ecosystem
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-68217A?style=flat-square)
+![Entity%20Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square)
 
-Uber Supply-Demand Gap Analysis — EDA identifying systemic imbalances and driving insight synthesis.
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-Null Vitals — Java game development illustrating system design and real-time mechanics.
+### Visualization & Dashboards
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-Bird Species Data Analysis — Comparative biodiversity assessment using structured data processing.
+### Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-Profile Summary
-Self-directed learner with a focus on empirical results and technical breadth across data and software systems. Committed to advancing analytical rigor and engineering discipline.
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Connect
+---
+
+## Repository Themes
+
+- End-to-end data analytics projects with business framing  
+- Machine learning pipelines with evaluation and validation  
+- .NET and C# desktop / backend applications  
+- SQL-heavy analytical workflows  
+- Streamlit dashboards for interpretation and reporting  
+- Java and C-based system-level coursework  
+
+---
+
+## Development Principles
+
+- Problem-first, tool-second thinking  
+- Preference for interpretable models  
+- Structured data pipelines  
+- Documentation as a core deliverable  
+- Reproducibility and correctness over shortcuts  
+
+---
+
+## Academic & Career Direction
+
+Focused on analytics, data engineering, and applied machine learning roles, with parallel strengthening of statistics, algorithms, and backend systems.
+
+---
+
+## Contact
+
+GitHub: https://github.com/SIDDUPAAJI
 LinkedIn: www.linkedin.com/in/siddeshvaishnav
 LeetCode: https://leetcode.com/u/siddeshh2703/
-CodeForces: https://codeforces.com/profile/z1dd35h
