@@ -86,6 +86,5 @@ Focused on analytics, data engineering, and applied machine learning roles, with
 
 ## Contact
 
-GitHub: https://github.com/SIDDUPAAJI
 LinkedIn: www.linkedin.com/in/siddeshvaishnav
 LeetCode: https://leetcode.com/u/siddeshh2703/
